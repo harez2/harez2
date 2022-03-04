@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harez
+- 👋 Hi, I’m @harez2
 - 👀 I’m interested in Digital Marketing
 - 🌱 I’m currently learning Google Data Analytics.
 - 💞️ I’m looking to collaborate on Digital Marketing Related Projects.
